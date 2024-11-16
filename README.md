@@ -10,7 +10,6 @@ This is a contact management application that allows users to manage their conta
 4. [Backend Setup](#backend-setup)
 5. [Usage](#usage)
 6. [Environment Variables](#environment-variables)
-7. [License](#license)
 
 ## Tech Stack
 
@@ -101,7 +100,3 @@ The backend requires the following environment variables in the `.env` file:
 ### Frontend
 
 The frontend does not require specific environment variables but can be configured to communicate with a different backend URL by modifying the API URL in the frontend code.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
